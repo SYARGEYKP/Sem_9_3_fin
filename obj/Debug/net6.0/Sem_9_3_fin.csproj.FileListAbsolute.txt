@@ -1,0 +1,15 @@
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\bin\Debug\net6.0\Sem_9_3_fin.exe
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\bin\Debug\net6.0\Sem_9_3_fin.deps.json
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\bin\Debug\net6.0\Sem_9_3_fin.runtimeconfig.json
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\bin\Debug\net6.0\Sem_9_3_fin.dll
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\bin\Debug\net6.0\Sem_9_3_fin.pdb
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\Sem_9_3_fin.csproj.AssemblyReference.cache
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\Sem_9_3_fin.GeneratedMSBuildEditorConfig.editorconfig
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\Sem_9_3_fin.AssemblyInfoInputs.cache
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\Sem_9_3_fin.AssemblyInfo.cs
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\Sem_9_3_fin.csproj.CoreCompileInputs.cache
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\Sem_9_3_fin.dll
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\refint\Sem_9_3_fin.dll
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\Sem_9_3_fin.pdb
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\Sem_9_3_fin.genruntimeconfig.cache
+D:\CRYPTA\DATA SCIENCE\УРОКИ\CSHARP\Sem_9_3_fin\obj\Debug\net6.0\ref\Sem_9_3_fin.dll
